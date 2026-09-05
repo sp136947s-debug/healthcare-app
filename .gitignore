@@ -1,0 +1,13 @@
+.env
+**/.env
+.dart_tool/
+**/.dart_tool/
+build/
+**/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.idea/
+.vscode/
+__pycache__/
+*.pyc
