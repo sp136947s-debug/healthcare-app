@@ -1,4 +1,4 @@
-# NIDAN — Full VS Code Ready MVP
+#NIDAN – Connected Care for Every Village
 
 NIDAN is a voice-first, multilingual healthcare navigation assistant:
 **Bolna → samajhna → safe guidance → next step → healthcare access.**
